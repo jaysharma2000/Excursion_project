@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.first{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+a{
+    font-size: 20px;
+    color: aquamarine;
+    display: block;
+    text-align: center;
+}
+
+.second{
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: gray;
+    text-align: center;
+}
+.img1{
+    display: block;
+    margin: 0 auto;
+}
+.img2{
+    display: block;
+    margin: 0 auto;
+}
+
+.third{
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+.last{
+    color: gray;
+    text-align: right;
+    font-size: 20px;
+}
